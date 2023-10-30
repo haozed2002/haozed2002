@@ -1,4 +1,4 @@
-![image](https://github.com/haozed2002/haozed2002/assets/119604814/d9bed0a9-8731-4fe7-aec6-7e1a9b95978e)
+
 <a href="#" target="_blank">
   <img src="svg/haozeder.svg" width="1200" alt="haozed" />
 </a>
