@@ -8,8 +8,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://www.svgrepo.com/show/43101/java.svg
-" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://www.svgrepo.com/show/43101/java.svg" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7B7FB5" alt="PHP" title="PHP" height="25" /></span>
 &nbsp;
