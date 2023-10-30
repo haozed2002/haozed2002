@@ -1,4 +1,4 @@
-
+![image](https://github.com/haozed2002/haozed2002/assets/119604814/d9bed0a9-8731-4fe7-aec6-7e1a9b95978e)
 <a href="#" target="_blank">
   <img src="svg/haozeder.svg" width="1200" alt="haozed" />
 </a>
@@ -8,7 +8,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://icons8.com/icon/Pd2x9GWu9ovX/java" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7B7FB5" alt="PHP" title="PHP" height="25" /></span>
 &nbsp;
